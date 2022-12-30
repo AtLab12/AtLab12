@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @AtLab12
-- 👀 I’m interested in mobile app and web development
 
 <!---
 AtLab12/AtLab12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
